@@ -1,5 +1,5 @@
 # Arduino_HTTPServer
-HTTP Server vor Arduino with JSON Body support
+HTTP Server for Arduino with JSON Body support
 
 
 NOTE:
