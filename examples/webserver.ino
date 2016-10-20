@@ -1,5 +1,3 @@
-#include <RCSwitch.h>
-
 #include <ArduinoJson.h>
 
 #include <SPI.h>
