@@ -69,7 +69,6 @@ void HTTPServer::_processLine(String _line) {
     _httpMethod = "GET";
     _httpPath = _line.substring(4);
     _httpPath.remove(_httpPath.length()-8);
-    Serial.println(_httpPath);
     return;
   }
   else if 
